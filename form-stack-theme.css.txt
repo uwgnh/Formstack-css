@@ -1,4 +1,4 @@
-
+//* The CSS in this file is duplicated in the Header HTML file this is becasue the "additional CSS" option does not work in formstack when you implement a custom header. You do not need to add this CSS if you are using the custom header with CSS included.
 
 @media screen and (min-width: 900px)
 {
