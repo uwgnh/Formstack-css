@@ -1,0 +1,2526 @@
+<!DOCTYPE html>
+<html lang="">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta property="og:site_name" content="Give to United Way"/>
+<meta property="og:url"
+content="https://unitedway.formstack.com/forms/uwgnh_give_web" />
+<meta property="og:description" content="We envision a world where every community is a strong one, with jobs that pay a livable wage, good schools and a healthy environment.  Around the world, we engage people and organizations in innovative solutions that are transforming that vision into reality.  " />
+<meta property="fb:app_id" content="42892755775" />
+<meta property="og:type" content="article" />
+<meta property="og:image"
+content="http://www.uwgnh.org/sites/default/files/masthead-2.jpg" />
+<meta property="article:author" content="https://www.facebook.com/UnitedWayofGreaterNewHaven" />
+<meta property="article:publisher" content="https://www.facebook.com/UnitedWayofGreaterNewHaven" />
+
+    <meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="" />
+<meta name="twitter:site" content="@formstack" />
+<meta name="twitter:title" content="" />
+<meta name="twitter:description" content="Formstack Form - " />
+<meta name="twitter:app:name:iphone" content="Formstack Forms" />
+<meta name="twitter:app:name:ipad" content="Formstack Forms" />
+<meta name="twitter:app:name:googleplay" content="Formstack Online Forms" />
+
+<meta name="twitter:app:id:iphone" content="id526805387" />
+<meta name="twitter:app:id:ipad" content="id526805387" />
+<meta name="twitter:app:id:googleplay" content="com.formstack.android" />
+
+    <title>United Way</title>
+
+            <link rel="icon" type="image/x-icon" href="https://donate.unitedway.org/favicon.ico" /> 
+        
+    
+    
+    <!--[if lt IE 9]>
+        <link rel="stylesheet" type="text/css" media="all" href="https://www.formstack.com/forms/css/3/ie.css?20140508" />
+    <![endif]-->
+    
+    <!--[if IE 7]><link rel="stylesheet" type="text/css" media="all" href="https://www.formstack.com/forms/css/3/ie7.css" /><![endif]-->
+    <!--[if IE 6]><link rel="stylesheet" type="text/css" media="all" href="https://www.formstack.com/forms/css/3/ie6fixes.css" /><![endif]-->
+
+
+        <style type="text/css">
+
+
+
+
+@media screen and (min-width: 900px)
+{
+
+
+#fsSection35234863 {
+    position: fixed;
+    top: 80px;
+ 
+    width: 210px;
+    left: 640px;
+}
+#fsSection35234863 .fsLabel 
+{
+   font-size: 25px;
+    line-height: 15px;
+    width: 100px;
+    border-radius: 2px;
+}
+
+#fsSection35234863 input
+{
+ width: 115px;
+  background-color: transparent;
+    border-width: 0px;
+}
+
+
+#fsSection35234863 .fsRequiredMarker
+{
+display: none;
+}
+
+#fsSection35234863 .fsCurrency
+{
+    font-size: 28px;
+}
+
+#fsSection35234863  .fsCell
+{
+    border-radius: 10px;
+    border-width: 10px;
+    border-color: white;
+    border-style: solid;
+}
+}
+
+.fsReadOnly input
+{
+  background-color: transparent;
+    border-width: 0px;
+}
+
+.js-social-autofill span.fsLabel {
+    visibility: hidden;
+}
+
+.facebook_autofill span span:after
+{
+    content: 'Auto-Fill with Facebook ' !important;
+    visibility: visible !important;
+    font-size: 15px !important;
+}
+
+
+.googleplus_autofill span span:after
+{
+    content: 'Auto-Fill with Google' !important;
+    visibility: visible !important;
+    font-size: 15px !important;
+}
+
+
+.fsBody .fsForm .fsSocialAutofill  .fsLabel 
+{
+color: white;
+}
+
+a.js-social-autofill {
+    margin-bottom: 10px;
+    max-width: 275px;
+    padding: 0 0 5px 0px;
+}
+
+#fsHeaderImage
+{
+	text-align:left;
+}
+
+body
+{
+	background-attachment:fixed;
+	background-color:#EEE;
+	background-image:url(https://s3.amazonaws.com/files.formstack.com/public/327696_tmpl_back_55ad557305d29.jpg);
+	background-position:center top;
+	background-repeat:repeat;
+	background-size:cover;
+}
+
+.fsBody .fsForm,.fsForm .fsSpacerRow .fsRowBody
+{
+	background-color:#FFF;
+}
+
+.fsForm,.fsError
+{
+	float:left;
+	margin-left:0;
+	margin-right:0;
+}
+
+.fsBody .fsForm .fsCell
+{
+	padding-bottom:10px;
+	padding-top:10px;
+}
+
+.fsBody .fsForm .fsSectionHeader
+{
+	background-color:#f0f1ff;
+}
+
+.fsBody .fsForm .fsSectionHeading
+{
+	color:#000;
+	font-family:Helvetica Neue, Arial, Lucida Grande, Tahoma, Verdana, sans-serif;
+	font-size:34px;
+	font-weight:700;
+	line-height:36px;
+}
+
+.fsBody .fsForm .fsSectionText
+{
+	color:#000;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	line-height:18px;
+}
+
+.fsBody .fsForm .fsLabel,.fsBody .fsForm .fsOptionLabel,.fsBody .fsForm .fsMatrix th,.fsBody .fsForm .fsMatrixLabel
+{
+	color:#130C83;
+	font-family:"Trade Gothic W01","Helvetica Neue",Helvetica,Arial,sans-serif,;
+	font-size:13px;
+	line-height:12px;
+}
+
+.fsBody .fsForm .fsRequiredLabel
+{
+	color:#130C83;
+}
+
+.fsBody .fsForm input[type=text].fsField,.fsBody .fsForm input[type=file].fsField,.fsBody .fsForm input[type=number].fsField,.fsBody .fsForm input[type=email].fsField,.fsBody .fsForm input[type=tel].fsField,.fsBody .fsForm textarea.fsField,.fsBody .fsForm select.fsField
+{
+	background-color:#EBEBEB;
+	border-color:#EEE;
+	color:#4F4F4F;
+}
+
+.fsBody .fsForm select.fsField {
+    min-height: 30px;
+}
+
+.fsBody .fsForm input[type=text].fsField,.fsBody .fsForm input[type=file].fsField,.fsBody .fsForm input[type=number].fsField,.fsBody .fsForm input[type=email].fsField,.fsBody .fsForm input[type=tel].fsField,.fsBody .fsForm textarea.fsField
+{
+	padding:5px;
+}
+
+.fsBody .fsForm input[type=text].fsRequired,.fsBody .fsForm input[type=file].fsRequired,.fsBody .fsForm input[type=number].fsRequired,.fsBody .fsForm input[type=email].fsRequired,.fsBody .fsForm input[type=tel].fsRequired,.fsBody .fsForm textarea.fsRequired,.fsBody .fsForm select.fsRequired
+{
+	background-color:#EBEBEB;
+	border-color:#EEE;
+	margin-right:10px;
+        max-width: 100%;
+}
+
+.fsBody .fsForm .fsSupporting
+{
+	color:#777;
+}
+
+.h1,.h2,h1,h2
+{
+	font-family:"Trade Gothic W01","Helvetica Neue",Helvetica,Arial,sans-serif;
+	margin-top:0;
+}
+
+.h1,.h2,.h3,h1,h2,h3,.fsBody .fsForm .fsSectionHeading
+{
+	font-style:normal;
+	font-weight:400;
+	margin-bottom:.5em;
+}
+
+.fsBody .fsForm .fsSectionHeading
+{
+margin-bottom:0em;
+}
+
+h1,.fsBody .fsForm .fsSectionHeading
+{
+	color:#4F4F4F;
+}
+
+fsForm input[readonly].fsRequired
+{
+	background-color:#FFF;
+}
+
+div#fsHeaderImage img
+{
+	margin-left:20px;
+	max-width:100px;
+	padding:5px;
+}
+
+form.fsForm
+{
+	left:20px;
+	position:relative;
+}
+
+label,.fsLabel
+{
+	color:#130C83;
+	cursor:default;
+	display:block;
+	font-family:"Trade Gothic W01","Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-size:1rem;
+	font-weight:400;
+	line-height:1.5;
+	margin-bottom:.625rem;
+	text-transform:uppercase;
+}
+
+div#fsHeaderImage
+{
+	background-color:#649cd3;
+}
+
+body#fsLocal
+{
+	margin:0;
+}
+
+.fsFieldRow input[type=email],.fsFieldRow input[type=number],.fsFieldRow input[type=tel],.fsFieldRow input[type=text],.fsForm textarea, .fsFieldRow input[type=text]
+{
+	
+	background-position:top left;
+	background-repeat:repeat-x;
+	border:1px solid #999;
+	border-bottom:1px solid #ddd;
+	border-left:1px solid #c3c3c3;
+	border-right:1px solid #c3c3c3;
+	border-top:1px solid #7c7c7c;
+	font-size:14px;
+	font-weight:700;
+	line-height:18px;
+	max-width:95%;
+	padding:4px;
+    background-color: #EBEBEB;
+    border-color: #EEE;
+    color: #4F4F4F;
+}
+
+.donate-header
+{
+	background:#649cd3;
+	height:4.0625rem;
+	margin:0 0 1.25rem;
+	position:fixed;
+	width:100%;
+	z-index:201;
+    height: 60px;
+border-top: 25px solid rgb(16,22,127);
+}
+
+.header-logo
+{
+	left:0;
+	position:fixed;
+	top:0;
+	z-index:202;
+}
+
+.header-logo:before
+{
+	    -ms-transform: skew(-70deg);
+    -webkit-transform: skew(-70deg);
+    background-color: #fff;
+    content: '';
+    height: 165px;
+    left: -255px;
+    padding: 12px 0 0 42px;
+    position: fixed;
+    top: 0;
+    transform: skew(-70deg);
+    width: 280px;
+    z-index: -1;
+}
+
+.header-logo a,.header-logo a img
+{
+    margin: 14px 0 0 16px;
+    width: 100px;
+}
+
+#framework .submit,.button,button,.fsSubmitButton
+{
+	-webkit-backface-visibility:hidden;
+	backface-visibility:hidden;
+	background:0 0;
+	border:2px solid #F87907;
+	box-sizing:content-box;
+	color:#fff;
+	cursor:pointer;
+	display:inline-block;
+	font-size:15px;
+	font-weight:400;
+	line-height:1;
+	margin:0 0 1.25rem;
+	overflow:hidden;
+	padding:.625rem 1rem;
+	position:relative;
+	text-align:center;
+	text-transform:uppercase;
+	transition:color .2s;
+	z-index:1;
+}
+
+.fsSubmitButton
+{
+	background-color:#F87907;
+	border:9px solid #F87907;
+	line-height:25px;
+}
+
+form#fsForm1990365,input[id^=fsForm]
+{
+	max-width:600px;
+}
+
+.fsForm.fsMaxCol2
+{
+	max-width:615px;
+	width:800px;
+}
+
+.fsForm
+{
+	max-width:615px;
+}
+
+.fsSliderDiv
+{
+	float:left;
+	height:28px;
+	margin-top:9px;
+	position:relative;
+	width:108px;
+}
+
+.ui-slider-horizontal .ui-state-default,.ui-slider-horizontal .ui-state-focus,.ui-slider-horizontal .ui-state-hover
+{
+	background:#F87907;
+}
+
+.ui-slider-horizontal.ui-widget-content
+{
+	background:linear-gradient(90deg,lightblue,darkblue);
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+
+    /*Chrome better radio buttons */
+input[type=radio]
+{
+	visibility:hidden;
+}
+}
+
+/* Windows 10 Edge Browser @supports method */
+
+@supports (-ms-accelerator:true) {
+  input[type=radio]
+{
+	visibility: visible;
+}
+}
+
+
+.fsFieldRow input.horizontal[type="radio"] {
+    visibility: hidden;
+}
+
+input[type=radio]::before, input[type=radio]:before
+{
+	visibility:visible;
+}
+
+input[type=radio]:before
+{
+	background:#EBEBEB;
+	border-radius:50%;
+	content:'';
+	display:block;
+	height:15px;
+	left:-2px;
+	top:-2px;
+	width:15px;
+}
+
+.fsBody .fsForm .fsOptionLabel
+{
+	font-size:12px;
+	line-height:21px;
+}
+
+input[type=radio]:checked:before
+{
+	background:rgba(255,255,255,0.68);
+	border:0 solid #EBEBEB;
+	border-radius:0;
+	height:60px;
+	top:-2px;
+	width:200px;
+}
+
+label.fsOptionLabel.horizontal
+{
+	-webkit-appearance:none;
+	-webkit-border-radius:0;
+	backface-visibility:hidden;
+	background:#F87907;
+	border:0 solid #F87907;
+	box-sizing:content-box;
+	color:#fff;
+	display:inline-block;
+	font-size:18px;
+	height:30px;
+	line-height:2;
+	margin:2%;
+	overflow:hidden;
+	padding:0 10px 15px 0;
+	position:relative;
+	text-align:center;
+	transition:color .2s;
+	width:20%;
+	z-index:0;
+}
+
+label.fsOptionLabel.horizontal::before, label.fsOptionLabel.horizontal:before
+{
+	border-color:transparent transparent #DC3601;
+	border-radius:0;
+	border-style:solid;
+	border-width:0 0 21px 21px;
+	bottom:0;
+	height:0;
+	left:auto;
+	right:0;
+	top:auto;
+	width:0;
+	z-index:10;
+}
+
+input[type=radio]:not(:checked):before
+{
+	visibility:hidden;
+}
+
+.fsFieldRow input[type=checkbox].horizontal,.fsFieldRow input[type=radio].horizontal
+{
+	margin:3px -8px 0 0;
+	top:-5px;
+}
+
+.stacklock
+{
+	display:none;
+}
+
+.fsForm .fsOptionLabel.horizontal
+{
+	color:#FFF;
+}
+
+label.fsOptionLabel.horizontal::first-line, label.fsOptionLabel.horizontal:first-line
+{
+	line-height:46px;
+}
+
+.fsForm .fsOptionLabel
+{
+	z-index:0;
+}
+
+input[type=radio].vertical:before, 
+.vertical input[type=radio]:before
+{
+	background:#EBEBEB;
+	border-radius:50%;
+	content:'';
+	display:block;
+	height:15px;
+	left:-2px;
+	top:-2px;
+	visibility:visible;
+	width:15px;
+}
+
+input[type=radio].vertical:checked:before, 
+.vertical input[type=radio]:checked:before
+{
+	background:#130C83;
+	border:3px solid #EBEBEB;
+	height:10px;
+	top:-2px;
+	width:10px;
+}
+
+.fsReadOnly
+{
+	background-color:#ADD8E6;
+	background-image:none;
+	margin-top:20px;
+}
+
+.fsReadOnly input[type=number].fsField
+{
+	background-color:transparent;
+	border-color:transparent;
+	font-size:30px;
+}
+
+
+@media only screen and (max-width: 900px)
+{
+form.fsForm {
+  left: 0px;
+
+}
+
+}
+
+@media only screen and (min-width: 900px)
+{
+a.js-social-autofill {
+    float: left;
+    width: 42%;
+    margin-right: 1%;
+}
+
+
+.fsSocialAutofill--buttons span {
+    background-size: 32px;
+}
+
+.fsBody .fsForm .fsSocialAutofill .fsLabel, .js-social-autofill .fsLabel
+{
+color: white;
+    font-family: "Trade Gothic W01","Helvetica Neue",Helvetica,Arial,sans-serif,;
+    font-size: 14;
+    line-height: 4px;
+}
+
+.js-social-autofill .fsLabel:after {
+    content: "test";
+visibility: visible; 
+}
+
+.js-social-autofill .fsLabel:after {
+   visibility: hidden; 
+}
+}
+
+
+div.fsFileUploadContainer
+{
+	background-color:#EFEFEF;
+	padding:6px;
+	text-align:center;
+	width:180px;
+}
+
+input.fsFilePreview
+{
+	max-height:170px;
+	max-width:170px;
+}
+
+address,article,footer,header,nav
+{
+	display:block;
+}
+
+.rtl .always-ltr
+{
+	display:inline-block;
+	margin-right:-8px;
+}
+
+.rtl .always-ltr>*
+{
+	display:block;
+	float:left;
+	margin-top:0;
+}
+
+.fsBody #fsTopLogo .reportAbuse
+{
+	font-size:10px;
+	text-align:center;
+}
+
+.fsBody #fsTopLogo .reportAbuse a
+{
+	background:0 0;
+	color:#666;
+	height:16px;
+}
+
+.fsBody .warningNoJS
+{
+	background-color:#fff;
+	border:solid 1px red;
+	color:red;
+	padding:20px;
+}
+
+#fsTopLogo
+{
+	display:none;
+	margin:0;
+	position:absolute;
+	right:9%;
+	top:0;
+}
+
+/*
+#fsTopLogo a
+{
+	background:url(../../images/3/formstackLogo.png) no-repeat center center;
+	display:block;
+	height:50px;
+	width:150px;
+}
+*/
+
+#fsTopLogo a span
+{
+	display:none;
+}
+
+.fsBody
+{
+	color:#000;
+	font:13px/1.4 "Helvetica Neue",Arial,"Lucida Grande",Tahoma,Verdana,sans-serif;
+}
+
+.fsBody .fsPage
+{
+	min-width:400px;
+}
+
+.fsEmbed .fsPage
+{
+	min-width:inherit!important;
+}
+
+.fsBody .fsForm
+{
+	background-color:#fff;
+	border:1px solid #ccc;
+	display:table;
+	margin:18px auto;
+}
+
+.fsEmbed .fsForm
+{
+	display:inherit;
+}
+
+.fsborderradius .fsBody .fsForm,.fsborderradius .fsBody .fsSectionHeader
+{
+	-moz-border-radius:4px;
+	-webkit-border-radius:4px;
+	border-radius:4px;
+}
+
+.fsboxshadow .fsBody .fsForm
+{
+	border:0;
+	box-shadow:0 1px 0 rgba(255,255,255,.8) inset,0 -2px 0 rgba(0,0,0,.1) inset,0 0 10px rgba(255,255,255,.5) inset,0 0 0 1px rgba(0,0,0,.1),0 2px 4px rgba(0,0,0,.2);
+margin-top: 120px;
+    margin-bottom: 50px;
+}
+
+.fsBody .fsForm .fsTable
+{
+	border:0;
+	margin:9px auto;
+	padding:0 0 4px;
+	text-align:left;
+	width:100%;
+}
+
+.fsborderradius .fsBody .fsSectionHeader
+{
+	margin:10px;
+    background-color: transparent;
+}
+
+.fsBody .fsSectionHeader
+{
+	background-color:#ccc;
+	clear:left;
+	padding:10px 15px 0px;
+}
+
+.fsBody .fsRowBody
+{
+	padding:10px 15px;
+}
+
+.fsBody .fsHidden
+{
+	display:none;
+	margin:0!important;
+	padding:0!important;
+}
+
+.fsBody .fsHiddenPage
+{
+	display:none;
+	height:0;
+	margin:0!important;
+	padding:0!important;
+}
+
+.fsHiddenByFieldSetting
+{
+	display:none;
+}
+
+.fsForm fieldset,.fsForm fieldset legend
+{
+	border:0;
+	margin:0;
+	padding:0;
+}
+
+legend
+{
+	white-space:normal;
+}
+
+div.fsSignature
+{
+	-moz-border-radius:14px;
+	-ms-touch-action:none;
+	-webkit-border-radius:14px;
+	border:10px solid #EFEFEF;
+	border-radius:14px;
+	margin-top:10px;
+}
+
+a.fsSignatureClear
+{
+	font-size:10px;
+}
+
+.fsForm.fsMaxCol1
+{
+	width:700px;
+}
+
+.fsForm.fsMaxCol3
+{
+	width:900px;
+}
+
+.fsForm.fsMaxCol4
+{
+	width:1100px;
+}
+
+.fsBody .fsFieldAddress
+{
+	display:block;
+}
+
+.fsBody .fsFieldAddress2
+{
+	margin-bottom:5px;
+}
+
+.fsBody div.fsFieldZip
+{
+	width:14%;
+}
+
+.fsBody .fsFieldRow
+{
+	clear:left;
+}
+
+.fsBody .fs2Col
+{
+	min-width:600px;
+}
+
+.fsBody .fs3Col
+{
+	min-width:900px;
+}
+
+.fsBody .fs4Col
+{
+	min-width:1100px;
+}
+
+.fs2Col .fsFieldCell
+{
+	float:left;
+	width:45%;
+}
+
+.fs3Col .fsFieldCell
+{
+	float:left;
+	width:30%;
+}
+
+.fs4Col .fsFieldCell
+{
+	float:left;
+	width:22%;
+}
+
+.fsFirst.fsLast.fsFieldCell
+{
+	float:none;
+	width:auto;
+}
+
+.fsBody .fsLabel,.fsBody label
+{
+	display:block;
+	font-weight:700;
+	line-height:19px;
+}
+
+.fsForm .fsLabel
+{
+	font-size:13px;
+	width:100%;
+}
+
+.fsForm .fsLabelHorizontal>label,.fsForm .fsLabelHorizontal>legend,.fsForm .fsLabelHorizontal>span.fsLabel,legend.fsLabelHorizontal
+{
+	float:left;
+	margin-right:10px;
+	width:100px;
+}
+
+.fsLabelHorizontal.fsLabel
+{
+	width:110px;
+}
+
+.fsFieldHorizontal
+{
+	float:left;
+}
+
+.fsFieldHorizontal.signature-field
+{
+	width:80%;
+}
+
+.fsBody .fsSubField
+{
+	float:left;
+	margin-right:5px;
+}
+
+.fsBody .rtl .fsSubField
+{
+	float:right;
+	margin:0 0 0 5px;
+}
+
+.fsBody .fsSupporting
+{
+	color:#656565;
+	display:block;
+	float:none;
+	font-size:11px;
+}
+
+.fsBody .fsCallout
+{
+	position:absolute;
+	width:360px;
+	z-index:5;
+}
+
+/*
+.fsBody .fsCalloutTop
+{
+	background:url(../../images/3/calloutTop.png) no-repeat left top;
+	padding-top:21px;
+}
+
+.fsBody .fsCalloutBottom
+{
+	background:url(../../images/3/calloutBottom.png) no-repeat left bottom;
+	height:15px;
+}
+
+.fsBody .fsCalloutBody
+{
+	background:url(../../images/3/calloutBody.png) repeat-y left center;
+	color:#fff;
+	padding:3px 12px 4px 16px;
+	text-shadow:0 1px 1px #000;
+}
+*/
+
+.fsBody .fsCalloutBody a
+{
+	border-bottom:1px dotted;
+	color:#ddd;
+	text-decoration:none;
+}
+
+.fsBody .fsCalloutBody a:hover
+{
+	color:#aaa;
+}
+
+.fsBody .fsPasswordForm
+{
+	padding-bottom:15px;
+	width:400px;
+}
+
+.fsForm .fsSubmit
+{
+	background-color:#EFEFEF;
+	clear:left;
+	margin-top:10px;
+	padding:20px;
+}
+
+.fsborderradius .fsForm .fsSubmit
+{
+	-moz-border-radius:0 0 4px 4px;
+	-webkit-border-radius:0 0 4px 4px;
+	border-radius:0 0 4px 4px;
+}
+
+.fsSubmit input.fsSubmitButton
+{
+	clear:both;
+	margin:0 auto;
+	padding:3px;
+z-index:0;
+}
+
+.fsSubmit input.fsSubmitButton.nice:hover
+{
+	filter:alpha(opacity=87);
+	opacity:.87;
+	zoom:1;
+}
+
+.fsSubmit input.fsSubmitMultipage
+{
+	clear:none;
+	float:right;
+}
+
+.rtl .fsSubmit input.fsSubmitMultipage
+{
+	clear:none;
+	float:left;
+}
+
+#fsFooterImage
+{
+	clear:both;
+	padding-top:20px;
+}
+
+.clear,.fs-clear
+{
+	clear:both;
+}
+
+.fsBody .showMobile
+{
+	display:none;
+}
+
+div.fsError
+{
+	-moz-border-radius:4px;
+	-webkit-border-radius:4px;
+	background-color:#fee;
+	border:1px solid red;
+	border-radius:4px;
+	clear:both;
+	color:#000;
+	font-size:14px;
+	margin:15px 10px 5px;
+	padding:10px;
+	text-align:center;
+}
+
+#disabledError
+{
+	background:#fff;
+	border:2px solid #efefef;
+	color:#656565;
+	line-height:18px;
+	margin:54px auto;
+	padding:36px;
+	width:300px;
+}
+
+.fsPasswordForm label
+{
+	color:#656565;
+	display:block;
+	font-size:13px;
+}
+
+.fsPasswordForm .fsRowBody input
+{
+	font-size:16px;
+	font-weight:700;
+	padding:5px;
+	text-align:center;
+}
+
+.fsPasswordForm td.fsRowBody
+{
+	padding:18px 0 24px;
+}
+
+.fsSSOForm label
+{
+	display:inline;
+}
+
+#fsPasswordError
+{
+	color:#D2010B;
+	font-weight:700;
+	padding:0;
+	text-align:center;
+}
+
+.fsFieldFocused
+{
+	background-color:#ffffa6;
+}
+
+.fsFieldFocused div.fsSupporting
+{
+	color:#000;
+}
+
+#fsConfirmAd table
+{
+	margin:36px auto;
+	width:100%;
+}
+
+#fsConfirmAd h2
+{
+	background:#42BD21;
+	color:#fff;
+	font-size:18px;
+	font-weight:400;
+	margin:0;
+	padding:18px;
+	text-align:center;
+	text-shadow:0 1px 0 #000;
+}
+
+#fsConfirmAd li
+{
+	margin-bottom:18px;
+}
+
+#fsConfirmAd img
+{
+	min-width:151px;
+}
+
+#fsConfirmAd img,#fsConfirmAd ul
+{
+	margin:18px;
+}
+
+*/
+#fsLearnMore
+{
+	background:url(../../images/3/buttonBG.png);
+	color:#333;
+	display:block;
+	font-size:16px;
+	height:25px;
+	line-height:25px;
+	margin:18px auto;
+	text-decoration:none;
+	text-shadow:0 1px 0 #fff;
+	width:155px;
+}
+*/
+.fsReadOnly input[type=email],.fsReadOnly input[type=number],.fsReadOnly input[type=tel],.fsReadOnly input[type=text],.fsReadOnly textarea
+{
+	background-image:none;
+	border:0;
+}
+
+.fsReadOnly input[type=number]
+{
+	-moz-appearance:textfield;
+}
+
+.fsForm input[type=email].fsField:focus,.fsForm input[type=file].fsField:focus,.fsForm input[type=number].fsField:focus,.fsForm input[type=tel].fsField:focus,.fsForm input[type=text].fsField:focus,.fsForm textarea.fsField:focus
+{
+	border-color:#00f;
+}
+
+.fsForm .fsReadOnly input[type=email].fsField:focus,.fsForm .fsReadOnly input[type=file].fsField:focus,.fsForm .fsReadOnly input[type=number].fsField:focus,.fsForm .fsReadOnly input[type=tel].fsField:focus,.fsForm .fsReadOnly input[type=text].fsField:focus,.fsForm .fsReadOnly textarea.fsField:focus
+{
+	border:0;
+}
+
+.fsFieldRow input[type=checkbox],.fsFieldRow input[type=radio]
+{
+	float:left;
+	margin:3px 7px 0 0;
+	padding:0;
+	position:relative;
+	vertical-align:bottom;
+}
+
+.rtl .fsFieldRow input[type=checkbox],.rtl .fsFieldRow input[type=radio]
+{
+	float:right;
+	margin:3px 0 0 7px;
+}
+
+.fsFieldRow input[type=checkbox].vertical,.fsFieldRow input[type=radio].vertical
+{
+	clear:left;
+	float:left;
+	height:13px;
+	margin:0 7px 0 0;
+	padding:0;
+	position:relative;
+	top:3px;
+	vertical-align:bottom;
+	width:13px;
+}
+
+.rtl .fsFieldRow input[type=checkbox].vertical,.rtl .fsFieldRow input[type=radio].vertical
+{
+	clear:right;
+	float:right;
+	margin:0 0 0 7px;
+}
+
+.fsBody .fsLabelHorizontal .fieldset-content label
+{
+	width:250px;
+}
+
+.fsBody .fsLabelHorizontal .fieldset-content label.horizontal
+{
+	width:auto;
+}
+
+.fsBody .fsLabelHoriztonal .fieldset-content .clear label
+{
+	width:100px;
+}
+
+label.fsOptionLabel
+{
+	font-weight:400;
+	line-height:20px;
+}
+
+.fsOptionLabel.horizontal
+{
+	float:left;
+	margin:0 20px 0 0;
+}
+
+.fsOptionLabel.horizontal+.fsOtherField
+{
+	float:left;
+}
+
+.rtl .fsOptionLabel.horizontal
+{
+	float:right;
+	margin:0 0 0 20px;
+}
+
+.rtl .fsOptionLabel.horizontal+.fsOtherField
+{
+	float:right;
+}
+
+.fsLabelVertical .fsSupporting
+{
+	clear:left;
+}
+
+.fsSupporting
+{
+	max-width:100%;
+}
+
+.fsForm select
+{
+	font-size:15px;
+	line-height:18px;
+}
+
+.fsRequiredMarker
+{
+	color:#ba0000;
+	float:none;
+	font-family:Verdana;
+	font-size:16px;
+	font-weight:700;
+	padding-left:2px;
+}
+
+.fsSupporting.fsRequiredLabel span
+{
+	font-size:inherit;
+	height:inherit;
+}
+
+.hidden
+{
+	height:.1em;
+	left:-999em;
+	overflow:hidden;
+	position:absolute;
+	width:.1em;
+}
+
+.fsPagination
+{
+	margin:25px 0;
+	text-align:center;
+}
+
+.fsPagination .fsNextButton
+{
+	float:right;
+}
+
+.fsPagination .fsPreviousButton,.rtl .fsPagination .fsNextButton
+{
+	float:left;
+}
+
+.rtl .fsPagination .fsPreviousButton
+{
+	float:right;
+}
+
+.fsPagination button,.fsPagination input
+{
+	font-size:16px;
+}
+
+.fsValidationError
+{
+	background-color:#fcc!important;
+}
+
+*/
+.fsValidationError .fsLabel
+{
+	background-image:url(../../images/3/validationAlert.png);
+	background-position:left bottom;
+	background-repeat:no-repeat;
+	color:#ba0000;
+	padding-left:20px;
+}
+
+*/
+.fsCounter
+{
+	-khtml-user-select:none;
+	-moz-user-select:none;
+	-ms-user-select:none;
+	-webkit-touch-callout:none;
+	-webkit-user-select:none;
+	color:#656565;
+	display:inline-block;
+	font-family:Georgia,Serif;
+	font-size:16px;
+	margin-top:-5px;
+	text-align:right;
+	user-select:none;
+}
+
+.recaptchatable img:hover
+{
+	-moz-box-shadow:0 0 0 1px red;
+	-webkit-box-shadow:0 0 0 1px red;
+	box-shadow:0 0 0 1px red;
+}
+
+.fsResumeLink
+{
+	font-size:14px;
+	font-weight:700;
+}
+
+div.fsProgress
+{
+	border:1px solid #ccc;
+	margin:9px auto;
+	width:100px;
+}
+
+div.fsProgressBarContainer
+{
+	background:#f4f4f4;
+	border:1px solid #ddd;
+	height:10px;
+	margin:1px;
+	position:relative;
+	text-align:left;
+	width:96%;
+}
+
+div.fsProgressBar
+{
+	background:#888;
+	height:10px;
+	width:0;
+}
+
+div.fsProgressText
+{
+	color:#555;
+	font-size:9px;
+	line-height:10px;
+	margin-top:-10px;
+	padding-bottom:2px;
+	text-align:center;
+	width:96%;
+	z-index:10;
+}
+
+div.fsSaveIncomplete
+{
+	-moz-box-shadow:0 0 3px 1px #999 inset;
+	-webkit-box-shadow:0 0 3px 1px #999 inset;
+	background-color:#CCC;
+	box-shadow:0 0 3px 1px #999 inset;
+	clear:left;
+	margin-bottom:-10px;
+	padding:4px 20px 8px;
+	text-align:center;
+}
+
+.fsSaveIncomplete a
+{
+	color:#444;
+	font-size:13px;
+}
+
+.fsSaveIncomplete a:visited
+{
+	color:#656565;
+}
+
+.fsSaveIncomplete a:hover
+{
+	color:#000;
+}
+
+/*
+#fsSubmissionCheckmark
+{
+	background:url(../../images/3/confirmationCheckmark.png);
+	float:left;
+	height:68px;
+	width:75px;
+}
+*/
+
+.fsBlankSection
+{
+	display:none;
+}
+
+.fsMatrix
+{
+	border-collapse:collapse;
+	font-size:11px;
+	margin:6px 0;
+	width:100%;
+}
+
+.fsMatrix td,.fsMatrix th
+{
+	border-bottom:dotted 1px #ccc;
+	font-weight:400;
+	padding:4px 0;
+	text-align:center;
+}
+
+.fsMatrix th.fsMatrixLabel
+{
+	padding-right:8px;
+	text-align:left;
+}
+
+.rtl .fsMatrix th.fsMatrixLabel
+{
+	padding-left:8px;
+	text-align:right;
+}
+
+.fsMatrixCol1,.fsMatrixCol2
+{
+	border-bottom:1px dotted #CCC;
+	font-weight:400;
+	padding:4px 0;
+	text-align:center;
+	width:15%;
+}
+
+.fsMatrixCol1 input[type=checkbox],.fsMatrixCol1 input[type=radio],.fsMatrixCol2 input[type=checkbox],.fsMatrixCol2 input[type=radio]
+{
+	float:none;
+}
+
+/*
+.fsMatrixCol1
+{
+	background:url(../../images/3/black_translucent.png);
+}
+
+.fsMatrixCol2,.fsMatrixLabel
+{
+	background:url(../../images/3/white_translucent.png);
+}
+*/
+
+.fsCurrency
+{
+	color:#555;
+	font-size:16px;
+}
+
+/*
+.fsSliderBg
+{
+	background:url(../../images/3/slider-bg.gif) no-repeat 5px 0;
+	float:left;
+	height:28px;
+	position:relative;
+	width:108px;
+}
+*/
+
+.fsSliderBg .fsSliderThumb
+{
+	cursor:default;
+	position:absolute;
+	top:4px;
+}
+
+div.fsSliderValue
+{
+	background-color:#f7f7f7;
+	color:#333;
+	float:left;
+	font-size:14px;
+	font-weight:700;
+	margin-left:15px;
+	padding:5px;
+}
+
+input.fsFormatCreditCard
+{
+	margin-right:10px;
+}
+
+img.fsCreditCardLogo
+{
+	border:solid 1px #777;
+	vertical-align:top;
+}
+
+.discountcodeMsg
+{
+	display:block;
+	font-size:x-small;
+	font-style:italic;
+}
+
+#recaptcha_area
+{
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#mobile-alert p
+{
+	text-align:center!important;
+	width:100%;
+}
+
+#mobile-alert input[type=submit]
+{
+	background:0 0;
+	border:0;
+	color:red;
+	cursor:pointer;
+	text-decoration:underline;
+}
+
+span.fsSlim
+{
+	display:none;
+}
+
+span.fsFull
+{
+	display:inherit;
+}
+
+.fsNextButton span.fsFull:after
+{
+	content:" \00bb";
+}
+
+.fsPreviousButton span.fsFull:before
+{
+	content:"\00ab\00a0";
+}
+
+.fsMatrixColCount1
+{
+	width:100%;
+}
+
+.fsMatrixColCount2
+{
+	width:50%;
+}
+
+.fsMatrixColCount3
+{
+	width:33%;
+}
+
+.fsMatrixColCount4
+{
+	width:25%;
+}
+
+.fsMatrixColCount5
+{
+	width:20%;
+}
+
+.fsMatrixColCount6
+{
+	width:16%;
+}
+
+.fsMatrixColCount7
+{
+	width:14%;
+}
+
+.fsMatrixColCount8
+{
+	width:12.5%;
+}
+
+.fsMatrixColCount9
+{
+	width:11%;
+}
+
+.fsMatrixColCount10
+{
+	width:10%;
+}
+
+.fsMatrixColCount11
+{
+	width:9%;
+}
+
+.fsMatrixColCount12
+{
+	width:8%;
+}
+
+.fsMatrixColCount13
+{
+	width:7.5%;
+}
+
+.fsMatrixColCount14
+{
+	width:7%;
+}
+
+.fsMatrixColCount15
+{
+	width:6.5%;
+}
+
+.fsFieldCell.fsSpan100
+{
+	width:100%;
+}
+
+.fsFieldCell.fsSpan75
+{
+	width:72%;
+}
+
+.fsFieldCell.fsSpan66
+{
+	width:63%;
+}
+
+.fsFieldCell.fsSpan50
+{
+	width:45%;
+}
+
+.fsFieldCell.fsSpan33
+{
+	width:30%;
+}
+
+.fsFieldCell.fsSpan25
+{
+	width:22%;
+}
+
+.ui-datepicker-trigger
+{
+	height:18px;
+	width:18px;
+}
+
+.fsSpan100 .fsProductField__image-container
+{
+	float:left;
+	width:10%;
+}
+
+.fsSpan50 .fsProductField__image-container
+{
+	float:left;
+	width:25%;
+}
+
+.fsProductField__image
+{
+	border-radius:5px;
+	width:100%;
+}
+
+.fsSpan100 .fsProductField__image,.fsSpan50 .fsProductField__image
+{
+	width:90%;
+}
+
+.fsSpan100 .fsProductField__info,.fsSpan50 .fsProductField__info
+{
+	float:left;
+	width:70%;
+}
+
+.rtl .fsSpan100 .fsProductField__info,.rtl .fsSpan50 .fsProductField__info
+{
+	float:right;
+}
+
+.fsSpan100 .fsProductField__info--no-image
+{
+	margin-left:0;
+	width:80%;
+}
+
+.fsSpan50 .fsProductField__info--no-image
+{
+	width:100%;
+}
+
+.fsProductField__info__name
+{
+	font-size:16px;
+	font-weight:700;
+}
+
+.fsBody .fsProductField__info__description
+{
+	color:#777;
+	line-height:15px;
+	margin-top:5px;
+	text-align:justify;
+}
+
+.fsProductField__fields
+{
+	margin-top:10px;
+	text-align:right;
+}
+
+.fsSpan100 .fsProductField__fields
+{
+	float:right;
+	margin:0;
+	width:20%;
+}
+
+.rtl .fsProductField__fields
+{
+	float:left;
+	text-align:left;
+}
+
+.fsBody .fsProductField__fields__fixed-amount
+{
+	color:#42AA44;
+	font-size:16px;
+	margin-top:25px;
+}
+
+.fsBody .fsProductField__fields__quantity
+{
+	margin-top:5px;
+}
+
+.fsBody .fsProductField__fields__any-amount
+{
+	margin-top:29px;
+}
+
+.fsBody .fsProductField__fields__any-amount input
+{
+	width:61px;
+}
+
+.fsBody .fsProductField__fields__no-charge
+{
+	color:#1c93c6;
+	font-size:16px;
+	margin-top:25px;
+}
+
+.fsBody .fsProductField__fields__sold-out
+{
+	color:#e30000;
+	font-size:14px;
+	margin-top:4px;
+}
+
+.fsBody .fsProductField__wait-list
+{
+	margin-top:10px;
+	text-align:right;
+}
+
+.fsBody .fsProductField__wait-list label
+{
+	font-weight:400;
+}
+
+.fsBody .fsProductField__wait-list input[type=checkbox]
+{
+	float:none;
+	vertical-align:top;
+}
+
+sub,sup
+{
+	font-size:75%;
+	line-height:0;
+	position:relative;
+	vertical-align:baseline;
+}
+
+sup
+{
+	top:-.5em;
+}
+
+sub
+{
+	bottom:-.25em;
+}
+
+.fsSocialAutofill
+{
+	margin:15px 15px 0;
+}
+
+.fsSocialAutofill .fsLabel
+{
+	font-size:1em;
+	line-height:2em;
+	margin-bottom:5px;
+	width:auto;
+}
+
+.fsSocialAutofill--icons
+{
+	border-bottom:1px solid #ddd;
+	font-size:16px;
+	line-height:36px;
+	padding-bottom:5px;
+}
+
+.fsSocialAutofill--icons a
+{
+	font-size:42px;
+	opacity:.8;
+	text-decoration:none;
+}
+
+.fsSocialAutofill--icons a:hover
+{
+	opacity:1;
+}
+
+.fsSocialAutofill--buttons a
+{
+    border: 0px solid #D1D1D1;
+    border-radius: 2px;
+    color: white;
+    display: inline-block;
+    font-weight: 500;
+    padding: 5px 5px;
+    text-decoration: none;
+    text-shadow: none;
+    background-color: #649cd3;
+}
+
+.fsSocialAutofill--buttons a:hover
+{
+	background-image:linear-gradient(-179deg,#FFF0,#EFEFEF100%);
+	border:0px solid #afafaf;
+}
+
+.fsSocialAutofill--buttons a span
+{
+	display:inline-block;
+	    padding-left: 12px;
+}
+
+.fsSocialAutofill--buttons .fsLabel
+{
+	font-size:13px;
+	line-height:1.4;
+	width:auto;
+}
+
+/*
+.fsSocialAutofill--buttons .facebook_autofill span
+{
+	background:url(../../images/icon-facebook.png) no-repeat;
+}
+
+*/
+.fsSocialAutofill--buttons .googleplus_autofill span
+{
+	background:url(../../images/icon-googleplus.png) no-repeat;
+}
+*/
+
+.fsSocialAutofill--buttons .linkedin_autofill span
+{
+	background:url(../../images/icon-linkedin.png) no-repeat;
+}
+
+.fsSocialAutofill--buttons .twitter_autofill span
+{
+	background:url(../../images/icon-twitter.png) no-repeat;
+}
+*/
+
+
+.fsBody .fsForm .fsSocialAutofill--buttons .fsLabel
+{
+    color: #FFF;
+    font-family: "Trade Gothic W01","Helvetica Neue",Helvetica,Arial,sans-serif,;
+ 
+    line-height: 19px;
+    font-weight: 600;
+}
+
+
+
+
+@media only screen and max-width 900px {
+	form.fsForm
+	{
+		left:0;
+	}
+}
+
+@media all and (max-width: 699px),
+all and (device-width: 768px) and (device-height: 1024px) and (orientation: portrait),
+all and (device-width: 768px) and (device-height: 1024px) and (orientation: landscape) {
+	span.fsSlim
+	{
+		display:inherit;
+	}
+	
+	span.fsFull
+	{
+		display:none;
+	}
+	
+	.fsBody .showMobile
+	{
+		display:inherit;
+	}
+	
+	.fsBody .hideMobile
+	{
+		display:none;
+	}
+	
+	.fsBody
+	{
+		margin-bottom:80px;
+	}
+	
+	.fsBody .fsForm,.fsBody .fsPage
+	{
+		min-width:inherit;
+		width:100%;
+	}
+	
+	.fsBody .fs1Col .fsFieldCell,.fsBody .fs2Col .fsFieldCell,.fsBody .fs3Col .fsFieldCell,.fsBody .fs4Col .fsFieldCell
+	{
+		width:auto;
+	}
+	
+	.fsBody .fsFieldRow input[type=email],.fsBody .fsFieldRow input[type=number],.fsBody .fsFieldRow input[type=tel],.fsBody .fsFieldRow input[type=text],.fsBody .fsForm textarea
+	{
+		width:85%;
+	}
+	
+	.fsBody .fsForm
+	{
+		display:block;
+		margin:0;
+		padding:1px 0 10px;
+		width:100%;
+	}
+	
+	.fsborderradius .fsForm .fsSubmit
+	{
+		border-radius:0;
+	}
+	
+	.fsBody .fs2Col,.fsBody .fs3Col,.fsBody .fs4Col
+	{
+		min-width:inherit;
+	}
+	
+	div.fsProgress
+	{
+		width:65px;
+	}
+	
+	div.fsProgressBarContainer,div.fsProgressText
+	{
+		width:95%;
+	}
+	
+/*
+	.fsPagination .fsNextButton
+	{
+		background:transparent url(../../images/3/mobileNext.png) no-repeat center top!important;
+		border:0;
+		cursor:pointer;
+		height:37px;
+		margin:0 15px 0 0;
+		padding:0;
+		text-indent:-1000em;
+		width:69px;
+	}
+	
+
+	.fsForm.rtl .fsPagination .fsNextButton
+	{
+		background:transparent url(../../images/3/mobilePrev.png) no-repeat center top!important;
+	}
+	
+	.fsPagination .fsPreviousButton
+	{
+		background:transparent url(../../images/3/mobilePrev.png) no-repeat center top!important;
+		border:0;
+		cursor:pointer;
+		height:37px;
+		margin:0 0 0 15px;
+		padding:0;
+		text-indent:-1000em;
+		width:69px;
+	}
+	
+	.fsForm.rtl .fsPagination .fsPreviousButton
+	{
+		background:transparent url(../../images/3/mobileNext.png) no-repeat center top!important;
+	}
+	
+*/
+	.fsSubmit input.fsSubmitMultipage
+	{
+		margin-right:15px;
+	}
+	
+	.fsBody .fsPasswordForm
+	{
+		width:100%;
+	}
+	
+	,.fsSpan25,.fsSpan33,.fsSpan50,.fsSpan66,.fsSpan75
+	{
+		width:auto;
+	}
+
+
+.header-logo:before
+{
+visibility: hidden;
+}
+
+
+.donate-header
+{
+    border-top: 5px solid rgb(16,22,127);
+}
+
+.fsboxshadow .fsBody .fsForm
+{
+    margin-top: 60px;
+}
+
+.fsBody .fsForm .fsSocialAutofill  .fsLabel 
+{
+color: white;
+}
+
+a.js-social-autofill {
+    margin-bottom: 10px;
+    max-width: 275px;
+    padding: 0 0 5px 0px;
+}
+
+
+}
+
+@media all and (device-width: 768px) and (device-height: 1024px) and (orientation: portrait),
+all and (device-width: 768px) and (device-height: 1024px) and (orientation: landscape) {
+	.fsBody .fsFieldRow input[type=email],.fsBody .fsFieldRow input[type=number],.fsBody .fsFieldRow input[type=tel],.fsBody .fsFieldRow input[type=text],.fsBody .fsForm textarea
+	{
+		font-size:160%;
+		padding:16px;
+	}
+	
+	.fsSubField
+	{
+		width:49%;
+	}
+	
+	.fsSubField.fsFieldCity,.fsSubField.fsFieldState,.fsSubField.fsFieldZip
+	{
+		width:inherit;
+	}
+	
+	.fsSubField.fsFieldCity
+	{
+		margin-right:15px;
+		width:49%;
+	}
+	
+	.fsSubField.fsFieldState
+	{
+		margin-right:20px;
+	}
+	
+	.fsFieldName
+	{
+		width:85%!important;
+	}
+	
+	.fsLabel
+	{
+		font-size:150%!important;
+	}
+	
+	.fsSupporting
+	{
+		font-size:125%!important;
+	}
+	
+	.fsOptionLabel
+	{
+		font-size:150%;
+		line-height:30px!important;
+		min-width:4em;
+	}
+	
+	input[type=checkbox],input[type=radio]
+	{
+		height:25px!important;
+		width:25px!important;
+	}
+	
+	input[type=radio]
+	{
+		border-radius:50px;
+	}
+	
+	select
+	{
+		height:30px!important;
+	}
+	
+	th.fsMatrixCol1,th.fsMatrixCol2
+	{
+		border-radius:4px 4px 0 0;
+		font-size:150%;
+		font-weight:700;
+		line-height:110%;
+		padding:10px;
+	}
+	
+	.fsMatrixLabel
+	{
+		font-size:150%;
+		line-height:110%;
+		padding:10px 0!important;
+	}
+	
+	.fsMatrix
+	{
+		margin-top:15px!important;
+	}
+}
+
+@media (device-width: 768px) and (device-height: 1024px) and (orientation: landscape)  {
+	.fsSubField.fsFieldCity
+	{
+		margin-right:5px;
+		width:57%;
+	}
+}
+
+@media only screen and (max-width: 1024px) {
+	.fsBody img
+	{
+		height:auto;
+		max-width:100%;
+	}
+}
+
+@media (max-width: 40em) {
+	.fsBody,body
+	{
+		background-color:none!important;
+	}
+	
+	.fsRow.fsFieldRow.fsLastRow
+	{
+		margin-bottom:1em;
+	}
+	
+	.fsBody .fsProductField__info__description
+	{
+		text-align:left;
+	}
+	
+	.fsboxshadow .fsBody .fsForm
+	{
+		box-shadow:none;
+	}
+	
+	.fsForm .fsLabel
+	{
+		margin-bottom:.75em;
+	}
+	
+	.fsSubField
+	{
+		width:100%;
+	}
+	
+	.fsFieldRow input[type=email],.fsFieldRow input[type=number],.fsFieldRow input[type=tel],.fsFieldRow input[type=text],.fsForm textarea
+	{
+		display:block;
+		font-size:1.5em;
+		width:100%!important;
+	}
+	
+
+	
+	label.fsOptionLabel!>input[type=radio]:focus
+	{
+		background:red;
+	}
+	
+	.fsBody .fsProductField__info
+	{
+		float:left;
+		margin:0 0 0 4%;
+		width:62%;
+	}
+	
+	.fsSpan100 .fsProductField__image-container
+	{
+		width:15%;
+	}
+	
+	.fsBody .fsProductField__image
+	{
+		float:left;
+		height:100%;
+		margin-right:0;
+		width:100%;
+	}
+	
+	.fsBody .fsProductField__fields
+	{
+		background:#ECF2E1;
+		margin-top:1em;
+		padding:.6em 1em;
+		text-align:left;
+		width:93%;
+	}
+	
+	.fsBody .fsProductField__fields__fixed-amount
+	{
+		float:left;
+		font-size:18px;
+		font-weight:600;
+		margin-right:1em;
+		margin-top:2px;
+	}
+	
+	.fsBody .fsProductField__fields__quantity
+	{
+		float:left;
+		font-size:1.1em;
+		margin-top:2px;
+	}
+	
+	div.fsSubField.fsFieldState
+	{
+		margin:.5em .5em 0 0;
+		width:70%;
+	}
+}
+
+input.fsSubmitButton {
+    z-index: 0;
+}
+
+
+
+.header-logo:before {
+     -ms-transform: skew(-70deg);
+    -webkit-transform: skew(-70deg);
+    background-color: #fff;
+    content: '';
+    height: 165px;
+    left: -255px;
+    padding: 12px 0 0 42px;
+    position: fixed;
+    top: 0;
+    transform: skew(-70deg);
+    width: 280px;
+    z-index: -1;
+}
+
+@media only screen and (min-width: 64.063em)
+.header-logo:before {
+    -ms-transform: skew(-70deg);
+    -webkit-transform: skew(-70deg);
+    background-color: #fff;
+    content: '';
+    height: 165px;
+    left: -255px;
+    padding: 12px 0 0 42px;
+    position: fixed;
+    top: 0;
+    transform: skew(-70deg);
+    width: 280px;
+    z-index: -1;
+}
+
+@media only screen and (min-width: 64.063em)
+.header-logo a {
+    margin: 14px 0 0 16px;
+    width: 150px;
+}
+
+@media only screen and (min-width: 64.063em)
+.header-logo a img {
+    height: 65px;
+    width: 150px;
+}
+
+
+
+@media only screen and (min-width: 40.063em)
+.donate-header {
+    margin: 0 0 2.5rem;
+}
+
+.donate-header {
+    height: 4.0625rem;
+    margin: 0 0 1.25rem;
+    position: fixed;
+    width: 100%;
+    z-index: 201;
+}
+
+
+
+
+
+
+
+@media only screen and (min-width: 900px)
+a.js-social-autofill {
+    float: left;
+    width: 40%;
+    margin-right: 1%;
+}
+}
+h1, .fsBody .fsForm .fsSectionHeading {
+    color: #4F4F4F;
+    font-size: 20px;
+    line-height: 25px;
+}
+
+.h1, .h2, .h3, h1, h2, h3, .fsBody .fsForm .fsSectionHeading {
+    font-style: normal;
+    font-weight: 400;
+    margin-bottom: 0em;
+    margin-top: 25px;
+}
+.fsBody .fsForm .fsSectionHeader {
+    background-color: white;
+    font-style: normal;
+    margin-bottom: 0em;
+    font-family: "Trade Gothic W01","Helvetica Neue",Helvetica,Arial,sans-serif;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    text-transform: uppercase;
+}
+
+
+.fsBody .fsSectionHeader
+{
+    padding: 0px 0px 0px;
+    margin-top: 30px;
+}
+
+.fsborderradius .fsBody .fsSectionHeader
+{
+ margin-top: 30px;
+}
+
+
+
+
+@media (max-width: 40em)
+.fsSubField {
+    width: 100%;
+}
+
+@media screen and (max-width: 600px)
+{
+label.fsOptionLabel.vertical {
+    font-weight: 400;
+    display: block;
+    padding: .5em 1em;
+    margin: .5em .5em .5em 0;
+    border-radius: 3px;
+    cursor: pointer;
+    background: rgba(228,228,228,.5);
+    border: 1px solid #DFDFDF;
+}
+
+.fsBody .fsForm input[type=number].fsRequired
+{
+    max-width: 90%;
+    margin-left: 15px;
+}
+
+.fsCurrency {
+    color: #555;
+    font-size: 20px;
+    float: left;
+    top: 10px;
+    position: relative;
+}
+}
+
+.fsFieldCell img
+{
+max-width: 100%;
+}
+
+
+/* CSS hacks to target IE */
+      
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+/* IE10+ CSS styles go here to make radio buttons show*/
+.fsFieldRow input.horizontal[type="radio"] {
+    visibility: visible;
+}
+}
+
+@supports (-ms-accelerator:true) {.fsFieldRow input.horizontal[type="radio"] {
+    visibility: visible;
+}
+}
+
+   </style>
+    
+<!--[if IE]>
+   <style type="text/css">
+.fsFieldRow input.horizontal[type="radio"] {
+    visibility: visible;
+}
+
+	</style>
+<![endif]-->
+
+
+    
+    </head>
+<body id="fsLocal" class="fsBody">
+   <div class="header-logo">
+            <a href="http://www.unitedway.org"><img src="https://s3.amazonaws.com/files.formstack.com/public/327696_tmpl_head_556c72aeb2e4f.jpg" alt="United Way Logo"></a>
+        </div>
+
+        
+
+        <header class="donate-header">
+            
+        </header>
